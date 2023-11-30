@@ -1,10 +1,4 @@
-![Sproggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sproggy&show_icons=true&theme=tokyonight)
-![Sproggy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sproggy&theme=blue-green)
-</br>
-![](https://komarev.com/ghpvc/?username=Sproggy&color=green)
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/Sproggy)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-
+Stuff is coming
 <!--
 **Sproggy/Sproggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
