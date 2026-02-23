@@ -3,13 +3,7 @@ Stuff is coming
 **Sproggy/Sproggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.sproggy.app/api?username=vars1ty&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.sproggy.app/?user=vars1ty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.sproggy.app/api/top-langs/?username=vars1ty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.sproggy.app/?username=vars1ty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.sproggy.app/api?username=sproggy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.sproggy.app/?user=sproggy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.sproggy.app/api/top-langs/?username=sproggy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.sproggy.app/?username=sproggy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
